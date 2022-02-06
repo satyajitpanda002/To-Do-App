@@ -192,7 +192,6 @@ textInput.addEventListener("keyup", function (event) {
   }
 });
 
-
 clearButton.addEventListener(
   "click",
   function () {
