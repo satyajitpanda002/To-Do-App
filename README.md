@@ -1,16 +1,16 @@
 # To-Do-App
 
-![image](/todo image.png)
+![image](todo image.png)
 
 ## Description 
-*This is a todo app, which can be used to execute your day with a proper planned manner
-*It will help you to procastinate less
-*The app is made responsive
+* This is a todo app, which can be used to execute your day with a proper planned manner
+* It will help you to procastinate less
+* The app is made responsive
 
 ## Tech stack used
-*HTML
-*CSS
-*JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## User Guide
 1. Open the project
