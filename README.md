@@ -1,6 +1,6 @@
 # To-Do-App
 
-!(image)[/todo image.png]
+![image](/todo image.png)
 
 ## Description 
 *This is a todo app, which can be used to execute your day with a proper planned manner
